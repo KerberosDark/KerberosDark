@@ -54,10 +54,10 @@
 ## 🧰 Hacking Tools
 
 <p align="left">
-  <img src="https://www.svgrepo.com/show/331354/nmap.svg" height="40" alt="Nmap"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Hydra-logo.png" height="40" alt="Hydra"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-bust-security-flatart-icons-outline-flatarticons.png" height="40" alt="Bustipe"/>
-  <img src="https://avatars.githubusercontent.com/u/21194747?s=200&v=4" height="40" alt="k6"/>
+  <img src="https://nmap.org/images/nmap-project-logo.svg" height="40" alt="Nmap"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Hydra-logo.png" height="40" alt="Hydra"/>  
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-bust-security-flatart-icons-outline-flatarticons.png" height="40" alt="Bustipe"/>  
+  <img src="https://avatars.githubusercontent.com/u/21194747?s=200&v=4" height="40" alt="k6"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Metasploit-logo.png" height="40" alt="Metasploit"/>
 </p>
 
