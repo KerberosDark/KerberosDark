@@ -54,12 +54,13 @@
 ## 🧰 Hacking Tools
 
 <p align="left">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo_nmap.png" height="40" alt="Nmap"/>
-  <img src="https://seeklogo.com/images/S/ hydra-logo-A5CDC125D3-seeklogo.com.png" height="40" alt="Hydra"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-bust-security-flatarticons.png" height="40" alt="Bustipe"/>
+  <img src="https://nmap.org/images/nmap-logo-2x.png" height="40" alt="Nmap"/>
+  <img src="https://raw.githubusercontent.com/Sliim/pentest-logo/master/Hydra.png" height="40" alt="Hydra"/>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-bust-security-flatart-icons-outline-flatarticons.png" height="40" alt="Bustipe"/>
   <img src="https://avatars.githubusercontent.com/u/21194747?s=200&v=4" height="40" alt="k6"/>
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Metasploit_logo_and_wordmark.svg" height="40" alt="Metasploit"/>
+  <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/data/ui/metasploit-logo.png" height="40" alt="Metasploit"/>
 </p>
+
 ---
 
 ## 🧑‍💻 Developer Tools
