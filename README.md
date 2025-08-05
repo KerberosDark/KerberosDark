@@ -54,11 +54,11 @@
 ## 🧰 Hacking Tools
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Nmap_Logo.png" height="40" alt="Nmap"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hydra-logo.png/240px-Hydra-logo.png" height="40" alt="Hydra"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-bust-security-flatart-icons-outline-flatarticons.png" height="40" alt="Bustipe"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo_nmap.png" height="40" alt="Nmap"/>
+  <img src="https://seeklogo.com/images/S/ hydra-logo-A5CDC125D3-seeklogo.com.png" height="40" alt="Hydra"/>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-bust-security-flatarticons.png" height="40" alt="Bustipe"/>
   <img src="https://avatars.githubusercontent.com/u/21194747?s=200&v=4" height="40" alt="k6"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Metasploit-logo.png/320px-Metasploit-logo.png" height="40" alt="Metasploit"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Metasploit_logo_and_wordmark.svg" height="40" alt="Metasploit"/>
 </p>
 ---
 
